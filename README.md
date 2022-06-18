@@ -3,7 +3,7 @@
 # tiny
 remove  spaces from a string 
 
-#Usage
+# Usage
 ```
 const tiny = require("fire-t/tiny");
 const str = "tom and jerry"
