@@ -3,7 +3,7 @@
     "version": "3.0.0",
     "description": "remove all spaces from a string",
     "license": "MIT",
-    "repository": "fire-t/tiny",
+    "repository": "rujptw/tiny",
     "main": "index.js",
     "keywords": [
         "tiny",
